@@ -1,2 +1,3 @@
-# my-portfolio
-This is a portfolio created with a Cloud Guru course on Serverless with React
+# Paul Williams' portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
