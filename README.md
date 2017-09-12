@@ -12,3 +12,5 @@ Font Awesome
 Google Fonts
 DNSSimple and Route 53
 Emacs + Magit
+SNS
+Lambda
