@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ExampleWork from './example-work';
+import ExampleWork from './example-work.js';
 
 const myWork = [
   {
